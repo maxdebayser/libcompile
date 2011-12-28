@@ -1,0 +1,9 @@
+libCompile
+~~~~~~~~~~
+
+libCompile is a library that enables the compilation
+of string containing valid C++ code and the subsequent
+execution of its functions.
+
+libCompile is based on clang, the C language family compiler
+frontend for LLVM.
